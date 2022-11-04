@@ -1,5 +1,5 @@
 {
-	"name": "weather_database",
+	"name": "react_starterpack",
 	"version": "1.0.0",
 	"main": "./index.tsx",
 	"repository": "https://github.com/vendymasarova/weather-database-app.git",
